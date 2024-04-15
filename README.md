@@ -70,3 +70,7 @@
 </p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/LuizHNR/LuizHNR/output/snake.svg" alt="Snake animation" />
+
+###
