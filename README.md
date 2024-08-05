@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">-🌱 I’m currently studying System Analysis and Development at FIAP <br>-💬 contact me by email: luizhneri11@gmail.com<br>-😊 Pronouns: he/himbr></p>
+<p align="left">-🌱 I’m currently studying System Analysis and Development at FIAP <br>-💬 contact me by email: luizhneri11@gmail.com<br>-😊 Pronouns: he/him br></p>
 
 ###
 
