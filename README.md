@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">-🌱 I’m currently studying System Analysis and Development at FIAP <br>-💬 contact me by email: luizhneri11@gmail.com<br>-😊 Pronouns: he/himbr></p>
 
 ###
 
