@@ -37,7 +37,7 @@
 
 ###
 
-
+<h3 align="center">A developer passionate about programming</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="center">A developer passionate about programming</h3>
+<hr/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
