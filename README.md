@@ -21,8 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
+<h2 aling="center">📊 GitHub Stats:</h2>
 
 ###
 
@@ -37,9 +36,7 @@
 
 ###
 
-<h3 align="center">A developer passionate about programming</h3>
-
-###
+<h2 align="left">I code with</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -59,7 +56,7 @@
 
 ###
 
-<hr/>
+###
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -70,6 +67,12 @@
 
 ###
 
+<h3 align="center">A developer passionate about programming</h3>
+
+###
+
 <img src="https://raw.githubusercontent.com/LuizHNR/LuizHNR/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![](https://visitcount.itsvg.in/api?id=LuizHNR&icon=0&color=10)](https://visitcount.itsvg.in)
