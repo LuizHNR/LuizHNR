@@ -72,5 +72,3 @@
 <img src="https://raw.githubusercontent.com/LuizHNR/LuizHNR/output/snake.svg" alt="Snake animation" />
 
 ###
-
-[![](https://visitcount.itsvg.in/api?id=LuizHNR&icon=0&color=10)](https://visitcount.itsvg.in)
