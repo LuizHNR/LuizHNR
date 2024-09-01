@@ -13,7 +13,7 @@
 </p>
 
 ###
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">languages ​​I use</h2>
+<h2 align="center">languages ​​I use</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
