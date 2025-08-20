@@ -4,13 +4,9 @@
 
 ###
 
-<p align="left">My name is Luiz and I'm a 18 years old, from Brasil</p>
+<p align="left">My name is Luiz and I'm a 20 years old, from Brasil</p>
 
 ###
-
-<p align="center">
-  <img align="center" src="https://media.tenor.com/Pwrg7ZPN1IwAAAAi/kirby-kirby-line-sticker.gif" alt="Imagem">
-</p>
 
 ###
 <h2 align="center">About me</h2>
