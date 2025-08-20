@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,sass,js,ts,react,java,py,md,tailwind,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,sass,js,ts,react,java,py,md,tailwind,nodejs,spring,linux" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,vite,idea,pycharm,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,vite,idea,pycharm,rider,postman" />
   </a>
 </p>
 
