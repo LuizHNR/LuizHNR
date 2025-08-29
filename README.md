@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,sass,js,ts,react,java,py,md,tailwind,nodejs,spring,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,react,java,py,md,tailwind,nodejs,spring,linux" />
   </a>
 </p>
 
